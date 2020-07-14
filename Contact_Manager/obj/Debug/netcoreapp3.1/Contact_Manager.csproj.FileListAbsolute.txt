@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\obj\Debug\netcoreapp3.1\Contact_Manager.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\obj\Debug\netcoreapp3.1\Contact_Manager.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\obj\Debug\netcoreapp3.1\Contact_Manager.AssemblyInfo.cs
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\obj\Debug\netcoreapp3.1\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\bin\Debug\netcoreapp3.1\Contact_Manager.exe
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\bin\Debug\netcoreapp3.1\Contact_Manager.deps.json
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\bin\Debug\netcoreapp3.1\Contact_Manager.runtimeconfig.json
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\bin\Debug\netcoreapp3.1\Contact_Manager.runtimeconfig.dev.json
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\bin\Debug\netcoreapp3.1\Contact_Manager.dll
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\bin\Debug\netcoreapp3.1\Contact_Manager.pdb
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\obj\Debug\netcoreapp3.1\Contact_Manager.dll
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\obj\Debug\netcoreapp3.1\Contact_Manager.pdb
+C:\Users\Vartotojas\Documents\Programming\C#\Contact_Manager\Contact_Manager\obj\Debug\netcoreapp3.1\Contact_Manager.genruntimeconfig.cache
